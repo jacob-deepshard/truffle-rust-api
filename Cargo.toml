@@ -1,6 +1,9 @@
 [package]
-name = "truffle-rust-api"
-version = "0.1.0"
+name = "truffle"
+version = "0.0.1"
+authors = ["Jacob Valdez <jacob@deepshard.org>"]
 edition = "2021"
+description = "A simple Rust library"
+license = "MIT"
 
 [dependencies]
